@@ -1,0 +1,14 @@
+##Url - shortener
+
+use shortid to generate random id for short url [Done:)]
+
+POST/Url - Generate short url with random id by taking a valid url by a user [Done :)]
+
+GET/:id -  Redirect to the original url by taking the short url id [Done :)]
+
+GET/url/admin/:id - Returns the clicks of the provided url [Done :)]
+
+GET/url/admin - Returns all the short id with RedirectURL and total clicks [Done :)]
+
+
+

@@ -1,0 +1,27 @@
+{
+  "name": "url_shortener",
+  "version": "1.0.0",
+  "description": "script_runner",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "index": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ashesbloom"
+  },
+  "author": "Mayank_Pandey",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.3.0",
+    "nodemon": "^3.1.0",
+    "shortid": "^2.2.16",
+    "sweetalert": "^2.1.2"
+  }
+}
