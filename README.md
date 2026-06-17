@@ -64,10 +64,3 @@ Access the admin portal to:
 - View and delete individual URL entries.
 - Clear history for all users.
 
-## ⚠️ Disclaimer
-
-The length of the shortened URL ID may vary depending on the domain being used. While we aim for 8-character IDs, the actual length might be different to ensure uniqueness across the system.
-
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
